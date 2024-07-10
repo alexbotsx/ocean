@@ -10,42 +10,42 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['50360082744', '👑 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 - Creador 👑', true],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
-  ['51947560691', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
-  ['51968914403', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', false],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖💫', true],
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'], 
-  ['56986469687'],  
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'],
-  ['56986469687'], 
-  ['56986469687'], 
-  ['56986469687']
+  ['51992621601', '👑 𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧 - Creador 👑', true],
+  ['51992621601', '💫 𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧 💫', true],
+  ['51992621601', '💫 𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧 💫', true],
+  ['51992621601', '💫 𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧 💫', true],
+  ['51992621601', '💫 𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧 💫', true],
+  ['51992621601', '💫 𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧 💫', true],
+  ['51992621601', '💫 𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧 💫', true],
+  ['51992621601', '💫 𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧 💫', false],
+  ['51992621601', '💫 𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧 💫', true],
+  ['51992621601', '💫 𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧¨💫', true],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'], 
+  ['51992621601'],  
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'], 
+  ['51992621601'], 
+  ['51992621601']
 ];
 
-global.suittag = ['56986469687'];
-global.prems = ['56986469687'];
+global.suittag = ['51992621601'];
+global.prems = ['51992621601'];
 
 global.packname = '𝑻𝒐𝒎𝒂  𝑺𝒕𝒊𝒄𝒌𝒆𝒓 🤖';
-global.author = '𝗜𝗡𝗞𝗔𝗜𝗞𝗢𝗕𝗢𝗧 🤖';
-global.wm = '𝗜𝗡𝗞𝗔𝗜𝗞𝗢𝗕𝗢𝗧 🤖';
-global.titulowm = '𝗜𝗡𝗞𝗔𝗜𝗞𝗢𝗕𝗢𝗧 🤖';
-global.titulowm2 = `𝗜𝗡𝗞𝗔𝗜𝗞𝗢𝗕𝗢𝗧 🤖`
-global.igfg = '𝗜𝗡𝗞𝗔𝗜𝗞𝗢𝗕𝗢𝗧 🤖';
+global.author = '𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧';
+global.wm = '𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧';
+global.titulowm = '𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧';
+global.titulowm2 = `𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧`
+global.igfg = '𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -66,15 +66,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝗜𝗡𝗞𝗔𝗜𝗞𝗢𝗕𝗢𝗧 🤖`;
-global.gt = '𝗜𝗡𝗞𝗔𝗜𝗞𝗢𝗕𝗢𝗧 🤖';
-global.mysticbot = '𝗜𝗡𝗞𝗔𝗜𝗞𝗢𝗕𝗢𝗧 🤖';
-global.md = 'https://chat.whatsapp.com/CkVjZZlIrW3JfwyhWvHFLv';
-global.mysticbot = 'https://chat.whatsapp.com/CkVjZZlIrW3JfwyhWvHFLv';
+global.wm2 = `${dia} ${fecha}\n𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧 🤖`;
+global.gt = '𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧 🤖';
+global.mysticbot = '𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧 🤖';
+global.md = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
+global.mysticbot = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '56986469687';
+global.nomorown = '51992621601';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

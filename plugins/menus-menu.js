@@ -25,14 +25,13 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 
  ▢ *Hola ,* ${taguser} este es el 𝗜𝗡𝗞-𝗕𝗢𝗧🟡
 
- ┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
- 🤴🏻 Creador : Yaritza
- 🌩️ Numero:  wa.me/+51968914403
- 💤 Adquirir : wa.me/+51968914403
- 🔱 Ig : @inkaikos_ff
- ⏳ *Uptime:* ${uptime}
- 👥 *Usuarios regs:* ${rtotalreg}
- 🔮 *Usuarios totales:* ${rtotal}
+┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
+┃⭐ Creador : Aleizn
+┃📞 Wa.me/51992621601
+┃IG: https://www.instagram.com/ale.izn_20/
+┃⏳ *Tiempo:* ${uptime}
+┃👥 *regs:* ${rtotalreg}
+┃🔮 *Usuarios totales:* ${rtotal}
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 
 
@@ -43,20 +42,20 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
   ╰━━━━━━━━━━━━
 
  ╭━〔 ❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 ❄️〕
- *┃➤ 👥 ${usedPrefix}menuff*
- *┃➤ 👥 ${usedPrefix}comandosff*
- *┃➤ 👥 ${usedPrefix}kick*
- *┃➤ 👥 ${usedPrefix}grupo*
- *┃➤ 👥 ${usedPrefix}promote*
- *┃➤ 👥 ${usedPrefix}demote*
- *┃➤ 👥 ${usedPrefix}demote*
- *┃➤ 👥 ${usedPrefix}link*
- *┃➤ 👥 ${usedPrefix}invocar*
- *┃➤ 👥 ${usedPrefix}setwelcome*
- *┃➤ 👥 ${usedPrefix}setbye*
- *┃➤ 👥 ${usedPrefix}hidetag*
- *┃➤ 👥 ${usedPrefix}fantasmas*
- *┃➤ 👥 ${usedPrefix}kickfantasmas*
+ *┃➤  ${usedPrefix}menuff*
+ *┃➤  ${usedPrefix}comandosff*
+ *┃➤  ${usedPrefix}kick*
+ *┃➤  ${usedPrefix}grupo*
+ *┃➤  ${usedPrefix}promote*
+ *┃➤  ${usedPrefix}demote*
+ *┃➤  ${usedPrefix}demote*
+ *┃➤  ${usedPrefix}link*
+ *┃➤  ${usedPrefix}invocar*
+ *┃➤  ${usedPrefix}setwelcome*
+ *┃➤  ${usedPrefix}setbye*
+ *┃➤  ${usedPrefix}hidetag*
+ *┃➤  ${usedPrefix}fantasmas*
+ *┃➤  ${usedPrefix}kickfantasmas*
   ╰━━━━━━━━━━━━
 
  ╭━〔 ⚠️ *FREE FIRE* ⚠️ 〕
