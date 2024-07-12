@@ -21,17 +21,14 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `ㅤㅤ 𝗜𝗡𝗞-𝗕𝗢𝗧🟡
+    const str = `ㅤㅤ 🔥BOTCITO PUT4 
 
- ▢ *Hola ,* ${taguser} este es el 𝗜𝗡𝗞-𝗕𝗢𝗧🟡
+ ▢ A TU SERVICIO
 
 ┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
 ┃⭐ Creador : Aleizn
 ┃📞 Wa.me/51992621601
 ┃IG: https://www.instagram.com/ale.izn_20/
-┃⏳ *Tiempo:* ${uptime}
-┃👥 *regs:* ${rtotalreg}
-┃🔮 *Usuarios totales:* ${rtotal}
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 
 

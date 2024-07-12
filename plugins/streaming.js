@@ -66,14 +66,4 @@ pyropunch@icloud.com:Lowkey10
 rogermontes13@gmail.com:Qwe1234s
 ryellib@gmail.com:Starwarsmaster3
 rossrandolph2018@yahoo.com:Ross0510
-
-𝗡𝗢𝗧𝗔: 𝗦𝗜𝗚𝗨𝗘𝗠𝗘 𝗘𝗡 𝗜𝗚 𝗤𝗨𝗘 𝗘𝗦𝗧𝗔𝗥𝗘 𝗦𝗢𝗥𝗧𝗘𝗔𝗡𝗗𝗢 𝗣𝗢𝗥 𝗔𝗛𝗜 𝗧𝗔𝗠𝗕𝗜𝗘𝗡 𝗘𝗡 𝗛𝗜𝗦𝗧𝗢𝗥𝗜𝗔𝗦
-
-𝗜𝗚: @𝗮𝗻𝗰𝗲𝗹𝘇𝘇𝘇
-
-𝗔𝗚𝗥𝗔𝗗𝗘𝗖𝗘𝗥: wa.me/56986469687
-
-𝗦𝗜 𝗤𝗨𝗜𝗘𝗥𝗘𝗦 𝗦𝗔𝗕𝗘𝗥 𝗦𝗢𝗕𝗥𝗘 𝗨𝗡 𝗖𝗨𝗥𝗦𝗢 𝗗𝗘𝗗𝗜𝗖𝗔𝗗𝗢 𝗔 𝗟𝗔 𝗖𝗥𝗘𝗔𝗖𝗜𝗢𝗡 𝗗𝗘 𝗖𝗨𝗘𝗡𝗧𝗔𝗦 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗣𝗢𝗡 𝗘𝗟 𝗦𝗜𝗚𝗨𝗜𝗘𝗡𝗧𝗘 𝗖𝗢𝗠𝗔𝗡𝗗𝗢:
-
-.𝗰𝘂𝗿𝘀𝗼𝘃𝗶𝗽
 `;
