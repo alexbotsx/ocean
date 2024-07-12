@@ -13,9 +13,9 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   teks += `*└* 𝗡𝗞𝗔𝗕𝗢𝗧\n\n*🏴‍☠️*`;
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
 };
-handler.help = ['tagall <mesaje>', 'invocar <mesaje>'];
+handler.help = ['stc <mesaje>', 'cts <mesaje>'];
 handler.tags = ['group'];
-handler.command = /^(tagall|invocar|invocacion|todos|invocación)$/i;
+handler.command = /^(stc|cts)$/i;
 handler.admin = true;
 handler.group = true;
 export default handler;
