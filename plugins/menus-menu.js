@@ -21,14 +21,10 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `ㅤㅤ 🔥BOTCITO PUT4 
-
- ▢ A TU SERVICIO
-
-┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
-┃⭐ Creador : Aleizn
-┃📞 Wa.me/51992621601
-┃IG: https://www.instagram.com/ale.izn_20/
+    const str = `┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
+┃⭐ Creador : 𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓
+┃📞 Wa.me/529861009341
+┃IG: https://www.instagram.com/ocean.corp/
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 
 
